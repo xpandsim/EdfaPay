@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6fFooxj3R7x" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">EdfaPay - How To Register</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="EdfaPay_-_How_To_Register_ORG">
+    <organization identifier="EdfaPay_-_How_To_Register_ORG">
+      <title>EdfaPay - How To Register</title>
+      <item identifier="How_to_add_a_background_to_a_worksheet_SCO" isvisible="true" identifierref="__6fFooxj3R7x_RES">
+        <title>EdfaPay - How To Register</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6fFooxj3R7x_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6OXsn4VwvVk.png" />
+      <file href="story_content/6nPX9QHxeZO_44100_48_0.mp3" />
+      <file href="story_content/5iAS4ZzIGoI_captions.js" />
+      <file href="mobile/6nInEmpAz96_P_0_0_1366_56.png" />
+      <file href="mobile/6FPxuQzIahk.png" />
+      <file href="mobile/6FPxuQzIahk_P_0_1089_2048_190.png" />
+      <file href="story_content/5idC7c4GM5A_44100_48_0.mp3" />
+      <file href="story_content/5iTdj5mlvTe_captions.js" />
+      <file href="mobile/62Dzj9vWjSu.png" />
+      <file href="story_content/6jFnWDh7kYT_44100_48_0.mp3" />
+      <file href="story_content/6nJpr7s6SMw_captions.js" />
+      <file href="mobile/6V08yYbInij.png" />
+      <file href="story_content/5ktOTAPPUMT_44100_48_0.mp3" />
+      <file href="story_content/60lEuoffltL_44100_48_0.mp3" />
+      <file href="story_content/5iRDTjrNQnk_captions.js" />
+      <file href="story_content/5nvgLCrbIYM_44100_48_0.mp3" />
+      <file href="story_content/6XEIrGm5GCt_captions.js" />
+      <file href="mobile/6jHK4qK5wtv.png" />
+      <file href="story_content/5m3ITSGxcHo_44100_48_0.mp3" />
+      <file href="story_content/6bke3IVlBek_captions.js" />
+      <file href="mobile/5oiUzGGDLgh.png" />
+      <file href="story_content/5w6XPAz4Eki_44100_48_0.mp3" />
+      <file href="story_content/6kQrEUqE5Op_captions.js" />
+      <file href="mobile/5byOMnGGZrB.png" />
+      <file href="story_content/6dEEjlxAacd_44100_48_0.mp3" />
+      <file href="story_content/6bqf7iJk4bZ_captions.js" />
+      <file href="mobile/5eU9yMZmkgh_P_0_0_2048_979.png" />
+      <file href="mobile/5rXSkypj9OL.png" />
+      <file href="story_content/68Oocu0XFeH_44100_48_0.mp3" />
+      <file href="story_content/65Es0sRETep_captions.js" />
+      <file href="mobile/6ilbACVb0uk_P_0_0_2048_1024.png" />
+      <file href="mobile/6ilbACVb0uk_P_648_424_1399_855.png" />
+      <file href="story_content/6b1x6LoPSaf_44100_48_0.mp3" />
+      <file href="story_content/6ltR5ZIGqxy_captions.js" />
+      <file href="story_content/67tdxembouA_44100_48_0.mp3" />
+      <file href="story_content/6cbZDujNZhg_captions.js" />
+      <file href="story_content/6BGngNijOsf_44100_48_0.mp3" />
+      <file href="story_content/6FNeKH816jS_captions.js" />
+      <file href="story_content/6P998PUscHW_44100_48_0.mp3" />
+      <file href="story_content/6FIOhFkBDIE_captions.js" />
+      <file href="mobile/63zceaSlFyG_P_0_0_2048_979.png" />
+      <file href="mobile/5vgi5S0Uctt.png" />
+      <file href="story_content/5bsZtrscyQI_44100_48_0.mp3" />
+      <file href="story_content/6XSU6dPle2h_captions.js" />
+      <file href="mobile/61AE2FybVUT.png" />
+      <file href="mobile/61AE2FybVUT_P_616_359_1431_920.png" />
+      <file href="story_content/60sdgLpEtnO_44100_48_0.mp3" />
+      <file href="story_content/6L3rj3irDu9_captions.js" />
+      <file href="mobile/5nB2kvuE3Z0.png" />
+      <file href="story_content/5XCemFeFz4K_44100_48_0.mp3" />
+      <file href="story_content/5qrjmcxAveF_captions.js" />
+      <file href="story_content/66UrMlHEPFQ_44100_48_0.mp3" />
+      <file href="story_content/6psOBy8fAJl_captions.js" />
+      <file href="mobile/6LjfaXu28c7.png" />
+      <file href="story_content/6WZdPRQcLyt_44100_48_0.mp3" />
+      <file href="story_content/5Zx3ZZ1NHfV_captions.js" />
+      <file href="mobile/6SE1u4X5AYw.png" />
+      <file href="story_content/5d7hFOLmVPC_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aMeUKAAaEk.js" />
+      <file href="html5/data/js/5ccCE2mdCwi.js" />
+      <file href="html5/data/js/5eORPwIU2Kr.js" />
+      <file href="html5/data/js/5eXDP8EO0UR.js" />
+      <file href="html5/data/js/5lBr9KmK47E.js" />
+      <file href="html5/data/js/5xLNrfaB7Bc.js" />
+      <file href="html5/data/js/5yeAFAmYsfj.js" />
+      <file href="html5/data/js/5YzjRzRmV9B.js" />
+      <file href="html5/data/js/61JcRJMquwt.js" />
+      <file href="html5/data/js/625pvfvpAI9.js" />
+      <file href="html5/data/js/65mjtxHEbNe.js" />
+      <file href="html5/data/js/6BQKZ9EMB9z.js" />
+      <file href="html5/data/js/6CQ67kSTGTp.js" />
+      <file href="html5/data/js/6DGsZuSTVfy.js" />
+      <file href="html5/data/js/6GyovMCWtWj.js" />
+      <file href="html5/data/js/6hf8OOATCeV.js" />
+      <file href="html5/data/js/6lOQfQAnoM7.js" />
+      <file href="html5/data/js/6PTIfwIEw5r.js" />
+      <file href="html5/data/js/6SA3B4T6Ndu.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
